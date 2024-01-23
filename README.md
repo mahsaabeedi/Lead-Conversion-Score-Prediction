@@ -26,4 +26,3 @@ This project focuses on the critical task of lead scoring using advanced Machine
 ## Conclusion
 This project showcases the implementation of lead scoring techniques using Machine Learning, aiming to optimize marketing campaigns and improve resource management. By automating lead categorization, businesses can enhance their overall productivity and achieve better results from their marketing endeavors.
 
-Feel free to explore the code, documentation, and results in the provided files.
